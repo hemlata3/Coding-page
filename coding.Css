@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.code {
+    background-image: url('https://img.freepik.com/free-vector/matrix-style-binary-code-digital-background-with-falling-numbers_1017-25336.jpg?w=1380&t=st=1705491730~exp=1705492330~hmac=8f331dd23ea552867ce586cfa0edf9f82b6c98229fb8f861aa174b122bc0e491');
+    align-items: center;
+    height: 700px;
+    width: 400px;
+    display:flex;
+    justify-content: center;
+    background-color: rgba(0,0,0,0.5);
+    margin-top: 100px;
+
+} 
+
+.lata {
+    color:#ffffff;
+    padding: 20px;
+    font-family: 'Bree serif';
+    border:6px solid #48ee59;
+    margin:auto;
+    font-size: 50px;
+    height: 320px;
+    width: 320px;
+}
+
+.c {
+    padding-inline: 50px;
+}
